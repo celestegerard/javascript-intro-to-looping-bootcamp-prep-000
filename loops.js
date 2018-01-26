@@ -18,7 +18,7 @@ function whileLoop(number) {
   return "done";
 }
 
-var maybeTrue = function maybeTrue() {
+function maybeTrue = function maybeTrue() {
   return Math.random() >= 0.5
 }
 
